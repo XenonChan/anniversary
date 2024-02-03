@@ -29,6 +29,14 @@ button {
     font-size: 1.5rem;
 }
 
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
 #btn-yes{
     background-color: rgb(61, 233, 98);
     padding: 20px 50px;
